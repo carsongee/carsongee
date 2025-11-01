@@ -1,6 +1,6 @@
 # Hi there, I'm Carson! 👋
 
-I'm a software engineer at **[@DataRobot](https://github.com/datarobot)** in Boston, MA, where I focus on building intelligent systems and exploring the intersection of software engineering and artificial intelligence.
+I'm a software engineer at **[@DataRobot](https://github.com/datarobot)** working remotely from Albuquerque where I focus on building intelligent systems and exploring the intersection of software engineering and artificial intelligence.
 
 ## 🤖 Current Focus
 
