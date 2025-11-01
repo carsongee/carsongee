@@ -4,7 +4,8 @@ I'm a software engineer at **[@DataRobot](https://github.com/datarobot)** workin
 
 ## 🤖 Current Focus
 
-- **AI & Machine Learning**: Leveraging Agentic AI and workflows to solve real-world problems and improve developer productivity
+- **Agentic AI**: Leveraging Agentic AI and workflows to solve real-world problems
+- **Developer Experience**: Building tools, products, and systems for improving developer experience
 - **Platform Engineering**: Building robust, scalable systems at DataRobot
 - **DevOps & CI/CD**: Continuous integration, deployment automation, and developer tooling
 - **Full Stack Development**: From mobile to backend, crafting end-to-end solutions
