@@ -12,6 +12,7 @@ I'm a software engineer at **[@DataRobot](https://github.com/datarobot)** workin
 
 ## 🛠️ Recent Projects
 
+- 🧱 **[app-framework](https://github.com/datarobot-community/app-framework)**: DataRobot's Open Source App Framework for building production grade agentic apps.
 - 🤖 **[recipe-bot](https://github.com/carsongee/recipe-bot)**: CrewAI-powered bot that finds and extracts recipes from the Internet
 - 📚 **[talk-to-my-docs-agents](https://github.com/datarobot-community/talk-to-my-docs-agents)**: Agentic AI system for interactive documentation exploration
 - 🧪 **[pytest-pylint](https://github.com/carsongee/pytest-pylint)**: Popular pytest plugin for running pylint (75+ ⭐)
